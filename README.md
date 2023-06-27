@@ -14,7 +14,7 @@ Chirper is a simple, fun, and engaging microblogging platform built with Laravel
 - Inertia
 - Tailwind CSS
 - SQLite
-- 
+  
 ## Contact Information
 
 **Email**: vidhi.mittal@emory.edu
